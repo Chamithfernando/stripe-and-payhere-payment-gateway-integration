@@ -1,4 +1,4 @@
-# Stripe-payment-gateway-integration
+# Stripe-payment-gateway-integration-with-springboot
 
 ## Vision
 
