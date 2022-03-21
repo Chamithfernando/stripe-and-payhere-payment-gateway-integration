@@ -1,17 +1,8 @@
 # Stripe-payment-gateway-integration-with-springboot
 
-
-# Sample image
-
 ![alt text](https://github.com/Chamithfernando/stripe-and-payhere-payment-gateway-integration/blob/4b4eb37ad2b2002d87f869b1ba3baa54d6933cec/src/main/resources/static/Capture.PNG?raw=true)
 
-## Vision
 
-*Approx 10-15 lines*.
-
-The aim of this project is …
-
-We’re solving … problem but you may also use this project to …
 
 ## Ethics
 
