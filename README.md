@@ -1,4 +1,4 @@
-# Stripe-payment-gateway-integration-with-springboot
+# Stripe-and-payhere-payment-gateway-integration-with-springboot
 
 ![alt text](https://github.com/Chamithfernando/stripe-and-payhere-payment-gateway-integration/blob/4b4eb37ad2b2002d87f869b1ba3baa54d6933cec/src/main/resources/static/Capture.PNG?raw=true)
 
